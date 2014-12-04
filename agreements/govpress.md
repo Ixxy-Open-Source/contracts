@@ -26,43 +26,6 @@
     :   The Time Allowance is a quantity of time allocated for use in
         providing services under this contract.
 
-3. ### Proposal
-
-    1.  Before hosting a WordPress website, dxw will provide the Initial Proposal.
-    2.  The Initial Proposal will contain:
-
-        1.  A description of the steps dxw has taken to make an initial
-            assessment of the server capacity your website is likely to require;
-        2.  A recommendation for the number and size of the instances you
-            will need, the size of your database and your initial file
-            storage;
-        3.  Details of Overprovisioned Capacity, if any;
-        4.  A statement of the support dxw will provide: Fully Managed
-            or Partly Managed;
-        5.  If Fully Managed, a description of the steps dxw has taken
-            to make an initial assessment of the support your website will
-            require, and thus to determining an initial Time Allowance.
-        6.  If Partly Managed, an explanation of what services dxw will
-            and will not be providing under this contract;
-        7.  A breakdown of dxw's predicted monthly fees, showing separately
-            the fees for infrastructure, support, and any other services;
-        8.  A breakdown of any costs to migrate your website onto GovPress,
-            if applicable;
-        9.  Any other information that we have agreed must be recorded
-            and agreed prior to the commencement of the Project.
-
-    3.  The proposal dxw provides will represent our best understanding
-        of the hosting requirements that you have, at the time it was
-        written. By accepting our proposal, you indicate that you:
-
-        1.  Agree that our recommendations are appropriate based on the
-            information available;
-        2.  Understand that the breakdown of fees in the Proposal is a predicion
-            based on the assumptions made in the proposal;
-        3.  Understand that the total fees over the life of the contract
-            may vary according to your Service Usage and your
-            instructions.
-
 4. ### The service
 
     1.  Product Science will provide the following as part of this contract:
@@ -74,19 +37,6 @@
         4.  A separate Staging Environment;
         5.  Availability monitoring and response;
         6.  Operating system and infrastructure upgrades and maintenance;
-        7.  Installation of WordPress core upgrades;
-        8.  A support helpdesk.
-
-    2.  If your proposal specifies that the website we host will be Fully Managed,
-        dxw will provide the following services as part of this contract, in
-        addition to the services specified in clause 4.1:
-
-        1.  Installation of WordPress plugin upgrades;
-        2.  Monitoring of production logs for issues of concern;
-        3.  WordPress plugin reviews;
-        4.  Installation of WordPress plugins subject to the terms in section 8;
-        5.  Minor modifications to theme files;
-        6.  Assistance and advice on the usage of WordPress's administration area.
 
     3.  Unless otherwise agreed, Product Science will not, under this contract, provide any
         service not specified in clause 4.1 or 4.2 unless it is specified
@@ -121,34 +71,6 @@
         out of any change we have made to the Hosting or your site, we will make reasonable efforts
         to fix the reported problem.
 
-6. ### Support
-
-    1.  At any time, you may create a Support Ticket.
-
-    2.  dxw will make reasonable efforts to respond to Support Tickets
-        within the period of time specified in our Service Level Agreement,
-        which forms part of this contract.
-
-    3.  All contact regarding the services dxw provides as part of this
-        contract must be made via Support Tickets.
-
-    4.  You understand that any contact you make with us that is not via a
-        Support Ticket may be overlooked or disregarded and that any
-        consequent failure on our part to respond to you or take or not take
-        some action will not be a breach of this contract.
-
-    5.  At any time, you may create an Emergency Support Ticket if you
-        are experiencing a problem that meets the criteria for an
-        emergency as described in the Service Level Agreement.
-
-    6.  If you create Emergency Support Tickets in situations which do
-        not meet the criteria for an emergency, dxw may withdraw your
-        ability to submit Emergency Support Tickets.
-
-    7.  You understand that if you are experiencing an emergency but
-        do not create an Emergency Support Ticket, our response time
-        may be considerably increased and your service may be disrupted
-        for a prolonged period as a result.
 
 7. ### Time allowance
 
