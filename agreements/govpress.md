@@ -362,25 +362,6 @@
         particular, as part of any website we may host.
 
 
-16. ### Payments
-
-    1.  dxw's fees for infrastructure, as specified in your proposal,
-        will be calculated every calendar month based on your Service Usage
-        and billed in arrears.
-    2.  dxw's fees for support, whether Fully Managed or Partly Managed,
-        will be billed each month in arrears.
-    3.  Invoices are payable within 14 days.
-    4.  dxw may charge interest on overdue invoices at 5% over the
-        Barclay's Bank base rate.
-    5.  You shall make payment by BACS transfer or (if agreed in advance with
-        dxw) credit or debit card. dxw does not accept cheques.
-    6.  Credit and debit card payments are subject to a 2.5% fee.
-    7.  dxw issues invoices by email. If you require a paper invoice to be
-        issued, a fee of 2.5% of the value of the invoice (exclusive of VAT)
-        shall be payable.
-    8.  VAT (where applicable) is payable on, and in addition to, all sums
-        due under this agreement.
-
 17. ### Circumstances beyond our control
 
     1.  Product Science will not be liable for any failure caused by industrial
