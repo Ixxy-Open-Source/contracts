@@ -19,8 +19,8 @@
 
     Support Ticket
     :   A Support Ticket is a task, created by completing an online form or
-        sending an email to support@dxw.com, which will be assigned to
-        a member of staff at dxw for their attention or action.
+        sending an email to support@Product Science.com, which will be assigned to
+        a member of staff at Product Science for their attention or action.
 
     Time Allowance
     :   The Time Allowance is a quantity of time allocated for use in
@@ -71,45 +71,44 @@
         out of any change we have made to the Hosting or your site, we will make reasonable efforts
         to fix the reported problem.
 
-
 7. ### Time allowance
 
 
-    2.  dxw will track time spent providing the services specified in this
+    2.  Product Science will track time spent providing the services specified in this
         contract in sufficient detail to be able to provide an approximation
         of the time required to service your website in any given month.
 
-    3.  In any given month, dxw will carry out all of the services provided
+    3.  In any given month, Product Science will carry out all of the services provided
         under this contract with no additional fee, provided that the Time
         Allowance has not been exceeded.
 
-    4.  In any given month, if dxw chooses to complete work in excess of the
+    4.  In any given month, if Product Science chooses to complete work in excess of the
         Time Allowance, no additional fee will be payable. Any such work is
-        completed at dxw's absolute discretion and the fact that dxw does so on
-        one occasion will not imply that dxw will do so on subsequent occasions.
+        completed at Product Science's absolute discretion and the fact that Product Science does so on
+        one occasion will not imply that Product Science will do so on subsequent occasions.
 
-    4.  In any given month, if dxw chooses not to complete work in excess of
+    4.  In any given month, if Product Science chooses not to complete work in excess of
         the Time Allowance, we may notify you, and, subject to our availability,
-        will complete that work if dxw's fees for the additional work are paid.
-        dxw will not complete any such work without your authorisation.
+        will complete that work if Product Science's fees for the additional work are paid.
+        Product Science will not complete any such work without your authorisation.
 
     6.  The Time Allowance may be varied by agreement, and with a corresponding
-        change to dxw's fees.
+        change to Product Science's fees.
 
-    7.  dxw will not ordinarily agree to a reduction in the Time Allowance if
+    7.  Product Science will not ordinarily agree to a reduction in the Time Allowance if
         to do so would impede our ability to provide services under this agreement
         to a professional standard.
 
-    8.  If your Time Allowance is reguarly exceeded, or almost exceeded, dxw
+    8.  If your Time Allowance is reguarly exceeded, or almost exceeded, Product Science
         may notify you that this is the case, and request that the Time
         Allowance be increased.
 
-    9.  If you do not agree to increase the Time Allowance, dxw may require
+    9.  If you do not agree to increase the Time Allowance, Product Science may require
         you to reduce the workload that your website generates; for example, by
         submitting fewer Support Tickets.
 
 
-    10. dxw may, for a fee, be able to advise you on alternative approaches
+    10. Product Science may, for a fee, be able to advise you on alternative approaches
         to managing your website that could reduce your operational costs.
 
 
