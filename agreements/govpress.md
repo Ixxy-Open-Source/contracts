@@ -9,35 +9,6 @@
 
 2. ### Definitions
 
-    Emergency Support Ticket
-    :   An Emergency Support Ticket is a Support Ticket created when an email
-        is sent to support-emergency@dxw.com. Its creation will result in alerts
-        being sent to members of dxw staff at any time of day or night.
-
-    GovPress
-    :	The software and hardware platform, including WordPress, on which dxw will
-        host your website, is known as GovPress.
-
-    Initial Proposal
-    : 	The Initial Proposal is Proposal supplied by dxw under clause 3.1.
-
-    Overprovisioned Capacity
-    :   Overprovisioned Capacity is a quantity of computing time, or any
-        other resource, which is made available to your website but is in excess
-        of the quantity we believe your website will require. It is allocated
-        in order to reduce the risk of failure when websites are launched
-        whose capacity requirements are uncertain.
-
-    Proposal
-    :	A Proposal is a document containing the information listed in clause 3.2.
-
-    Service Level Agreement
-    :	Service Level Agreement refers to the document available at http://dext.ly/sla,
-        which sets out our responsiveness targets.
-
-    Service Usage
-    :   Service Usage is the accumulated quantity of hours of computing time
-        and gigabytes of data stored or transferred in a given period.
     Hosting
     :	The software and hardware platform, on which Product Science will host your website.
 
