@@ -74,9 +74,6 @@
 
 7. ### Time allowance
 
-    1.  dxw's initial fee for Fully Managed support is calculated from the
-        Time Allowance, which is based on our assessment of your website's
-        likely support requirements, as stated in the proposal.
 
     2.  dxw will track time spent providing the services specified in this
         contract in sufficient detail to be able to provide an approximation
@@ -111,37 +108,10 @@
         you to reduce the workload that your website generates; for example, by
         submitting fewer Support Tickets.
 
-    10. The Time Allowance is calculated per month. Unusused time is not carried
-        over and may not be used in any subsequent month.
 
     10. dxw may, for a fee, be able to advise you on alternative approaches
         to managing your website that could reduce your operational costs.
 
-    11. The Time Allowance will have no bearing on dxw's provision of the
-        services detailed in clauses 4.1.1, 4.1.2, 4.1.3 and 4.1.4.
-
-8. ### Installation of plugins
-
-    1.  The terms in this section only apply to you if your website is Fully
-        Managed, or if your Partly Managed service includes WordPress plugin
-        updates or installation.
-
-    2.  At any time, you may create a Support Ticket to ask us to install a
-        plugin on your website.
-
-    3.  If you ask dxw to install a plugin, we will conduct an assessment of
-        that plugin intended to give a broad understanding of the kinds of
-        security problems that plugin may have.
-
-    4.  Based on dxw's assessment of a plugin, dxw may refuse to install that
-        plugin or updates for that plugin.
-
-    5.  Plugin security assessments are intended only to give a broad
-        understanding of a plugin's security status. The results are opinions
-        only. dxw neither offers any guarantee that a plugin whose assessment
-        produced positive results does not contain security vulnerabilities,
-        nor that negative results necessarily imply that a plugin does contain
-        security vulnerabilities.
 
 9. ### Suspension
 
