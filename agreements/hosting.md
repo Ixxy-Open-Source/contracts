@@ -83,9 +83,9 @@
 
     4.  In any given month, if Ixxy chooses to complete work in excess of the
         Time Allowance, no additional fee will be payable. Any such work is
-        completed at Ixxy's absolute discretion and the fact that Product
-        Science does so on one occasion will not imply that Ixxy will do so
-        on subsequent occasions.
+        completed at Ixxy's absolute discretion and the fact that Ixxy does 
+        so on one occasion will not imply that Ixxy will do so on subsequent
+        occasions.
 
     4.  In any given month, if Ixxy chooses not to complete work in excess of
         the Time Allowance, we may notify you, and, subject to our availability,
